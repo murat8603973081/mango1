@@ -33,7 +33,6 @@ setup(name='tinygrad',
             "pre-commit",
         ],
         'testing': [
-            "torch",
             "pytest",
             "pytest-xdist",
             "onnx",
